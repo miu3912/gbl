@@ -4,7 +4,7 @@
       <div class="content-wrapper">
         <header class="header">
           <div class="header-center">
-            <h1 class="main-title">衍生圣巢</h1>
+            <h1 class="main-title">衍生·圣巢</h1>
           </div>
         </header>
 
