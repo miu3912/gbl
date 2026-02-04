@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 # Auto detect text files and perform LF normalization
 * text=auto
+=======
+* text=auto eol=lf
+*.{cmd,[cC][mM][dD]} text eol=crlf
+*.{bat,[bB][aA][tT]} text eol=crlf
+
+dist/** merge=ours
+>>>>>>> 8a3236488f838733f52d0fbae264274272bfdbb3
